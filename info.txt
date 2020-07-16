@@ -1,0 +1,3 @@
+Store 19 has maximum mean sales across all depts
+shape: 10148
+fields: Dept, Date, Weekly_Sales, IsHoliday
